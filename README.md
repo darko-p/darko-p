@@ -1,6 +1,6 @@
 ### Hi there, I'm Darko👋
 
-- 🔭 I’m currently working on [Melbourne Unlocked](https://unlocked.melbourne)
+- 🔭 I’m currently working on [Melbourne Unlocked](https://github.com/Gumboots1993/melbourne_unlocked_)
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript, React, Redux**
 
